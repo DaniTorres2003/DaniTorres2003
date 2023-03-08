@@ -16,8 +16,11 @@
 <div align="center" style="display: inline-block">
     <img align="center" alt="DaniTorres2003-html" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="DaniTorres2003-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="DaniTorres2003-js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="ElizeuV-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="DaniTorres2003-js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
     
 #
