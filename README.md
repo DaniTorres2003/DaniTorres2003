@@ -9,6 +9,7 @@
     <a href="https://github.com/DaniTorres2003">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DaniTorres2003&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniTorres2003&layout=compact&langs_count=7&theme=algolia"/>
+    </a>
 </div>
   
 #
@@ -17,7 +18,9 @@
     <img align="center" alt="DaniTorres2003-HTML" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
     <img align="center" alt="DaniTorres2003-CSS" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
     <img align="center" alt="DaniTorres2003-JavaScript" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-    <img align="center" alt="DaniTorres2003-React" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img align="center" alt="DaniTorres2003-React.js" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img align="center" alt="DaniTorres2003-Node.js" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+    <img align="center" alt="DaniTorres2003-Express.js" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg">
     <img align="center" alt="DaniTorres2003-MySQL" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
     <img align="center" alt="DaniTorres2003-C" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
     <img align="center" alt="DaniTorres2003-Vs Code" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
