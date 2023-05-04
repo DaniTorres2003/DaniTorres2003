@@ -14,18 +14,15 @@
 #
 
 <div align="center">
-    <img align="center" alt="DaniTorres2003-html" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="DaniTorres2003-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="DaniTorres2003-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="DaniTorres2003-js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-    
-#
-    
-<div align="center">
-    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://github.com/ElizeuV/skill-icons/raw/main/icons/Github-Light.svg">
-    <img align="center" alt="DaniTorres2003" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="DaniTorres2003-JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="DaniTorres2003-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="DaniTorres2003-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="DaniTorres2003-C" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="DaniTorres2003-Vs Code" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="DaniTorres2003-Git" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="DaniTorres2003-Github" height="60" width="70" src="https://github.com/ElizeuV/skill-icons/raw/main/icons/Github-Light.svg">
 </div>
     
 #
