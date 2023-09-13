@@ -19,7 +19,8 @@
     <img align="center" alt="DaniTorres2003-CSS" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
     <img align="center" alt="DaniTorres2003-SASS" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg">
     <img align="center" alt="DaniTorres2003-JavaScript" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-    <img align="center" alt="DaniTorres2003-React.js" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img align="center" alt="DaniTorres2003-React.js" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">    
+    <img align="center" alt="DaniTorres2003-React.js" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
     <img align="center" alt="DaniTorres2003-C" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
     <img align="center" alt="DaniTorres2003-Vs Code" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
     <img align="center" alt="DaniTorres2003-Git" height="60" width="70" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
